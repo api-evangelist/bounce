@@ -1,0 +1,48 @@
+# Bounce
+
+> Bounce is the world's largest luggage storage network with 32,000+ locations across cities worldwide. We partner with local businesses to provide secure, convenient luggage storage for travelers, allowing them to explore hands-free while their bags are safely stored.
+
+## Detailed Information
+- [How it works](https://bounce.com/llms/how-it-works.md): Complete guide to using Bounce luggage storage
+- [Luggage Delivery](https://bounce.com/llms/luggage-delivery.md): How Bounce delivers luggage between hotels, airports, and city locations
+- [Partner Program](https://bounce.com/llms/for-businesses.md): Comprehensive partner program details
+- [Affiliate Program](https://bounce.com/llms/affiliates.md): Commission-based referral program
+- [Coverage & Services](https://bounce.com/llms/coverage.md): Full list of cities and partner locations
+- [Android App](https://play.google.com/store/apps/details?id=com.usebounce): Android app for easy booking
+- [iOS App](https://apps.apple.com/app/id1444570755): iOS app for easy booking
+- [Web app](https://www.bounce.com/s): Find and book luggage storage locations
+
+## Key Pages
+- [Find Storage](https://bounce.com/s): Search and book luggage storage near you
+- [Drop Off Bags](https://bounce.com#faq): Bring your bags to your chosen location
+- [Explore Hands-Free](https://bounce.com/cities): Enjoy your day without heavy luggage
+- [Pick Up When Ready](https://bounce.com/s): Collect your bags when convenient
+- [Book Storage](https://bounce.com/s): Find and reserve luggage storage locations
+- [iOS App](https://apps.apple.com/app/id1444570755): iOS and Android apps for easy booking
+- [Android App](https://play.google.com/store/apps/details?id=com.usebounce): iOS and Android apps for easy booking
+- [Pricing](https://bounce.com/): Affordable daily rates starting from 3.90€
+- [Cities](https://bounce.com/cities): 32,000 locations in major cities worldwide
+- [Partner Program](https://bounce.com/partner): Become a Bounce storage partner and earn extra revenue with zero upfront costs
+- [Hotel Solutions](https://bounce.com/partner/hotels): Specialized luggage storage solutions for hotels
+- [Affiliate Program](https://bounce.com/ls/affiliates): Earn 10% commission on every booking through your referral link, top brands already using Bounce: Marriott, Sheraton, Hilton, and more
+- [All Cities](https://bounce.com/cities): 32,000 locations across major cities worldwide
+- [Bounce Partner Locations](https://bounce.com/sitemaps/luggage-storage-locations): Local shops, hotels, and businesses storing luggage
+- [Bounce Partner Stores](https://bounce.com/sitemaps/stores): Luggage storage locations across the world
+
+## URL Patterns
+Bounce has structured URLs for easy navigation:
+- City Luggage storage pages: https://bounce.com/luggage-storage/{city_slug} - Specific luggage storage solutions for each city
+- Store listings: https://bounce.com/stores/{city_slug}/{store_slug} - Bounce Partner store locations in each city
+
+Examples:
+- https://bounce.com/luggage-storage/london
+- https://bounce.com/luggage-storage/london/london-eye
+- https://bounce.com/stores/lisbon/wkld0u
+- https://bounce.com/luggage-delivery/japan
+
+## Auxiliary Pages
+- [Travel Blog](https://bounce.com/blog): City guides, travel tips, and luggage storage insights
+
+## Contact & Support
+- partners@bounce.com
+- support@bounce.com

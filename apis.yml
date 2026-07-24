@@ -1,8 +1,18 @@
 aid: bounce
 name: Bounce
-description: Bounce is a company surfaced as a portfolio company of a16z, accel, general-catalyst and
-  added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Bounce operates the world's largest luggage storage network, connecting
+  travelers with more than 32,000 vetted partner locations across 4,000+ cities
+  worldwide where they can securely drop off bags, luggage, and packages by the
+  hour or day and explore hands-free. Founded by Cody Candee in 2018, the
+  company runs a two-sided marketplace: travelers book storage in advance or on
+  the spot through the Bounce web and mobile apps, while local shops, hotels,
+  and businesses earn revenue as storage partners. Bounce also offers
+  luggage-delivery between hotels, airports, and city locations, a hotel
+  solutions program, and an affiliate program. It is backed by Andreessen
+  Horowitz, General Catalyst, and Sapphire. This profile currently tracks the
+  company's public web surface; Bounce publishes an llms.txt but no public
+  developer API.
 url: https://raw.githubusercontent.com/api-evangelist/bounce/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,11 +22,30 @@ x-backed-by:
 - general-catalyst
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://bounce.com/static/thumbnail.png
 tags:
 - Company
+- Luggage Storage
+- Travel
+- Marketplace
+- Logistics
+- Consumer
+- Storage Network
+- Hospitality
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,4 +54,21 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://bounceinfinity.com/
+  url: https://bounce.com/
+- type: Blog
+  url: https://bounce.com/blog
+- type: Support
+  url: https://bounce.com/support
+- type: TermsOfService
+  url: https://bounce.com/legal/terms
+- type: PrivacyPolicy
+  url: https://bounce.com/legal/privacy
+- type: LLMsTxt
+  url: llms/bounce-llms.txt
+- type: DomainSecurity
+  url: security/bounce-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
